@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mhanley00/wordGuess-Cli#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "inquirer": "^6.2.0"
   }
 }
